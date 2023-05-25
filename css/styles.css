@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Playfair+Display:ital@1&family=Slackside+One&family=Smokum&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital@1&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair:ital,wght@1,300&display=swap');
+
+body {
+
+    
+    background-color: #E0FFFF;
+    margin: 30px 20px 30px 20px;
+}
+
+
+.titulo-principal {
+
+    text-align: center;
+    font-family: 'Dancing Script', cursive; font-size: 70px;
+
+
+
+}
+
+header {
+
+    align-content: center;
+    
+}
+
+.secao-titulo{
+
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+    
+}
+
+
+
+
+
+.info-texto {
+
+    font-family: 'Playfair', serif;
+    text-align: center;
+}
+
+
+
+
+#descricao-section {
+
+     text-align: center;
+     align-content: center;
+}
+
+.descricao-texto {
+
+    font-family: 'Playfair', serif;
+}
+
+
+
+
+#interesses-section {
+
+    text-align: center;
+     align-content: center;
+}
+
+.ul-hobbies {
+
+    list-style: none;
+}
+
+.li-hobbies {
+
+    font-family: 'Playfair', serif;
+}
+
+
+
+
+footer{
+
+    background-color: #000;
+    margin: 0px 0px 0px 0px;
+    
+
+}
+
+.p-footer {
+
+    font-family: 'Playfair', serif;
+    color: #fff;
+    text-align: center;
+}
+
+.ul-footer{
+
+    
+    text-align: center;
+    list-style: none;
+    text-decoration: none; color: #fff;
+}
+
+
+a{
+    text-decoration: none; color: #fff;
+}
